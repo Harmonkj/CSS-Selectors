@@ -2,6 +2,7 @@
   background-color: red;
   height: 100px;
   width: 100px;
+  font-size: 5px
   font-color: 000000;
   margin-bottom: 10px;
 }
@@ -11,7 +12,6 @@
 }
 
 .box p:first-child{
-  font-size: 25px;
   font-style: italic;
 }
 .box p:nth-child(2){
