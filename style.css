@@ -14,8 +14,8 @@
   font-size: 25px;
   font-style: italic;
 }
-.box p:nth-child(1){
-   color: yellow;
+.box p:nth-child(2){
+   color: white;
 }
 
 .button:hover {
