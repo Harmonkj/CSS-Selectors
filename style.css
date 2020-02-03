@@ -17,8 +17,8 @@
    color: white;
 }
 
-button:hover {
-  color: blue;
+.button:hover {
+  background-color: blue;
 }
 
 
