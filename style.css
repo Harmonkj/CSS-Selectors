@@ -11,10 +11,10 @@
 }
 
 .box p:first-child{
-  font-size: 10px;
+  font-size: 25px;
   font-style: italic;
 }
-.box p:nth-child(3,4){
+.box p:nth-child(1){
    color: yellow;
 }
 
