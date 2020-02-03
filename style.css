@@ -23,9 +23,9 @@
  background-color: black; 
 }
 
-.button:hover {
+button:hover {
   background-color: blue;
-}
+} 
   
 
 
