@@ -17,11 +17,11 @@
    color: white;
 }
 
-.button:hover {
+button:hover {
   background-color: blue;
 } 
 
-.ul {
+ul {
   font-color: blue;
 }
   
