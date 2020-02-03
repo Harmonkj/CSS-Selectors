@@ -16,7 +16,7 @@
    color: yellow;
 }
 
-P::first-letter{
+p::first-letter{
  font-size: 14px; 
 }
 
