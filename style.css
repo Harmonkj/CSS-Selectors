@@ -18,7 +18,7 @@
    color: yellow;
 }
 
-button:hover {
+.button:hover {
   background-color: blue;
 } 
   
