@@ -25,6 +25,8 @@ p::first-letter{
 }
 
 .button:hover {
+  background-color: blue;
+}
   
 
 
