@@ -1,18 +1,20 @@
 .box {
-  background-color: blue;
-  height: 400px;
+  background-color: red;
+  height: 200px;
   width: 500px;
+  font-color: white;
   margin-bottom: 10px;
 }
 
 .box p{
-  color: blue;
+  color: black;
 }
 
 .box p:first-child{
   font-size: 10px;
+  font-style: italic;
 }
-.box p:nth-child(1){
+.box p:nth-child(3,4){
    color: yellow;
 }
 
